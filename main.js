@@ -2,7 +2,10 @@ class Calculator {
     add(a, b) {
         return a + b;
     }
-    sub(c, d) {
-        return c - d;
+    sub(a, b) {
+        return a - b;
+    }
+    multi(a, b) {
+        return a * b;
     }
 }
