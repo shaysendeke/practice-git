@@ -11,4 +11,7 @@ class Calculator {
     divide() {
         return a / b
     }
+    power(a, b) {
+        a ** b
+    }
 }
