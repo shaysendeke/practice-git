@@ -8,7 +8,10 @@ class Calculator {
     multi(a, b) {
         return a * b;
     }
-    power(a, b){
-        a**b
+    divide() {
+        return a / b
+    }
+    power(a, b) {
+        a ** b
     }
 }
