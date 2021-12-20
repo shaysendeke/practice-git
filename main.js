@@ -8,4 +8,7 @@ class Calculator {
     multi(a, b) {
         return a * b;
     }
+    divide() {
+        return a / b
+    }
 }
